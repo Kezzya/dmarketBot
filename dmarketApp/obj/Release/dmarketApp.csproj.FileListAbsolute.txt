@@ -1,0 +1,17 @@
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketApp.exe.config
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketApp.exe
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketApp.pdb
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketAPI.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Microsoft.Owin.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Newtonsoft.Json.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Owin.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketAPI.pdb
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\dmarketAPI.dll.config
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Microsoft.Owin.xml
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\bin\Release\Newtonsoft.Json.xml
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\obj\Release\dmarketApp.csprojAssemblyReference.cache
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\obj\Release\dmarketApp.csproj.CopyComplete
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\obj\Release\dmarketApp.exe
+C:\Users\kobze\source\repos\dmarketAPI\dmarketApp\obj\Release\dmarketApp.pdb

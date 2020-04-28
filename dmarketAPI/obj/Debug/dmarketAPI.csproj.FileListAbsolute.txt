@@ -1,0 +1,11 @@
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\dmarketAPI.dll.config
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\dmarketAPI.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\dmarketAPI.pdb
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\EntityFramework.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\EntityFramework.xml
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\obj\Debug\dmarketAPI.csprojAssemblyReference.cache
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\obj\Debug\dmarketAPI.csproj.CopyComplete
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\obj\Debug\dmarketAPI.dll
+C:\Users\kobze\source\repos\dmarketAPI\dmarketAPI\obj\Debug\dmarketAPI.pdb
